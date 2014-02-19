@@ -1,1 +1,2 @@
-hello
+hello(こんにちは)
+hello hello
